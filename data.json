@@ -1,0 +1,24 @@
+{
+    "buses": [
+        {
+            "bus_id": "1",
+            "route": "KOP - Pan",
+            "schedule": "10",
+            "seats": 30,
+            "booked": 1
+        },
+        {
+            "bus_id": "2",
+            "route": "KOP - Malkapur",
+            "schedule": "11",
+            "seats": 20,
+            "booked": 0
+        }
+    ],
+    "passengers": [
+        {
+            "name": "Sneha Murnal",
+            "bus_id": "1"
+        }
+    ]
+}
